@@ -20,7 +20,7 @@ and open the template in the editor.
             }
             
             function abb_bermejo(){
-                echo "Ballesteros";
+                echo "Bermejo";
             }
         ?>
     </body>
