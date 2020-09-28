@@ -18,6 +18,10 @@ and open the template in the editor.
             function abb_ballesteros(){
                 echo "Ballesteros";
             }
+            
+            function abb_bermejo(){
+                echo "Ballesteros";
+            }
         ?>
     </body>
 </html>
