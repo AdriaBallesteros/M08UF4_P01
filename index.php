@@ -22,6 +22,10 @@ and open the template in the editor.
             function abb_bermejo(){
                 echo "Bermejo";
             }
+            
+            function abb_especial(){
+                echo "Bermejo";
+            }
         ?>
     </body>
 </html>
