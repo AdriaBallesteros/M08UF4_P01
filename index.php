@@ -24,7 +24,7 @@ and open the template in the editor.
             }
             
             function abb_especial(){
-                echo "Bermejo";
+                
             }
         ?>
     </body>
