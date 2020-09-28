@@ -25,6 +25,8 @@ and open the template in the editor.
             
             function abb_especial(){
                 echo "Adria Ballesteros Bermejo";
+                echo "Joan Moreno Callejas";
+                echo "Ivan Dominguez Perales";
             }
         ?>
     </body>
